@@ -1,11 +1,16 @@
 # 基于Matlab的车牌字符识别
 
+# 文件说明：
 
-### 前言：
+### 无数据扩充程序：Featrue1.m-Featrue6.m，test.m，Char_Index.txt
 
-- **此文仅仅是作为正在学习机器学习的小白对实践项目的一点总结，若有错漏之处，请指正，敬请谅解**
+### 有数据扩充程序：Featrue11.m-Featrue66.m，test1.m，Char_Index_kuochong.txt
 
-- **使用工具：Matlab，libsvm3.2.2**
+### main.m为主程序，Char_Index_Err.txt为需要人工校正的字符名称列表
+
+
+
+## 使用工具：Matlab，libsvm3.2.2**
 
 本文主要通过以下几个方面进行介绍：
 
